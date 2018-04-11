@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../openGLHelper-starterCode/pipelineProgram.h">
+   </FileRef>
+   <FileRef
+      location = "group:../openGLHelper-starterCode/pipelineProgram.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../openGLHelper-starterCode/basic.vertexShader.glsl">
+   </FileRef>
+   <FileRef
+      location = "group:../openGLHelper-starterCode/basic.fragmentShader.glsl">
+   </FileRef>
+   <FileRef
+      location = "group:../track.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../openGLHelper-starterCode/openGLMatrix.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../openGLHelper-starterCode/basicPipelineProgram.cpp">
+   </FileRef>
+</Workspace>
